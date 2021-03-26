@@ -1,6 +1,0 @@
-framework module Pods_ScreenCastDemo {
-  umbrella header "Pods-ScreenCastDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}
