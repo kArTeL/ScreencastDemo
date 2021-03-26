@@ -1,0 +1,6 @@
+framework module Pods_ScreenCastDemo_ScreenCastDemoUITests {
+  umbrella header "Pods-ScreenCastDemo-ScreenCastDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
